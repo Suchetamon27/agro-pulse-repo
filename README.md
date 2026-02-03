@@ -89,14 +89,14 @@ Quick Start
 
 agropulse/
 ├── src/
-│   ├── components/       # UI (common, dashboard, financial, layout)
-│   ├── pages/            # Page-level components
-│   ├── db/               # Supabase & API utilities
-│   ├── i18n/             # Translations
-│   ├── hooks/            # Custom React hooks
-│   └── types/            # TypeScript definitions
-├── supabase/             # Migrations & Edge Functions
-└── public/               # Static assets
+│   ├── components/  
+│   ├── pages/       
+│   ├── db/              
+│   ├── i18n/            
+│   ├── hooks/           
+│   └── types/            
+├── supabase/            
+└── public/          
 
 ## 🤝 Contributing
 
