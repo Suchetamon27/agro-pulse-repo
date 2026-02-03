@@ -1,8 +1,6 @@
 # 🌾 AgroPulse - Modern Agricultural Intelligence Platform
 Empowering farmers with AI-driven insights, real-time monitoring, and community support
 
-# Features • Demo • Installation • Tech Stack • Contributing
-
 ## 🚀 Overview
 
 AgroPulse is a comprehensive agricultural monitoring and management platform designed to help farmers make data-driven decisions, protect their crops, and maximize profitability. Built with modern web technologies, AgroPulse combines real-time micro-climate monitoring, AI-powered diagnostics, financial management tools, and community support into one seamless experience.
