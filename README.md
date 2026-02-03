@@ -49,7 +49,9 @@ To bridge the technology gap in agriculture by providing farmers with accessible
 - Offline Mode: Core features work without internet; data syncs automatically when back online
   
   ## 🎬 Demo Dashboard
-  - Overview  - Field Map (NDVI) - Community Feed
+  - Overview
+  - Field Map (NDVI)
+  - Community Feed
  
 ## 🚀 Installation
 Prerequisites
