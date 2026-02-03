@@ -3,9 +3,13 @@ Empowering farmers with AI-driven insights, real-time monitoring, and community 
 
 # Features • Demo • Installation • Tech Stack • Contributing
 
-## 📖 Overview
+## 🚀 Overview
 
 AgroPulse is a comprehensive agricultural monitoring and management platform designed to help farmers make data-driven decisions, protect their crops, and maximize profitability. Built with modern web technologies, AgroPulse combines real-time micro-climate monitoring, AI-powered diagnostics, financial management tools, and community support into one seamless experience.
+
+## 🔗 Live Project Link:
+
+[https://app-9djb8xmdm6m9.appmedo.com/]
 
 ## 🎯 Mission
 To bridge the technology gap in agriculture by providing farmers with accessible, intelligent tools that increase productivity, reduce risks, and foster community collaboration.
@@ -59,23 +63,19 @@ Prerequisites
 Quick Start
 
 1. Clone the repository
-   
    git clone https://github.com/Suchetamon27/agro-pulse-repo.git
    cd agro-pulse
 
 2. Install dependencies
-   
    pnpm install
 
 3. Set up environment variables Create a .env file in the root:
-   
    VITE_SUPABASE_URL=your_supabase_project_url
    VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
    VITE_APP_ID=your_app_id
    VITE_API_ENV=production
    
 4. Start the development server
-
    pnpm dev
 
 ## 🛠️ Tech Stack
