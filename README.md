@@ -48,3 +48,71 @@ To bridge the technology gap in agriculture by providing farmers with accessible
   
   ## 🎬 Demo Dashboard
   - Overview  - Field Map (NDVI) - Community Feed
+ 
+## 🚀 Installation
+Prerequisites
+
+- Node.js 18.x or higher
+- pnpm 8.x or higher (recommended) or npm
+- Supabase Account
+
+Quick Start
+
+1. Clone the repository
+   
+   git clone https://github.com/Suchetamon27/agro-pulse-repo.git
+   cd agro-pulse
+
+2. Install dependencies
+   
+   pnpm install
+
+3. Set up environment variables Create a .env file in the root:
+   
+   VITE_SUPABASE_URL=your_supabase_project_url
+   VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
+   VITE_APP_ID=your_app_id
+   VITE_API_ENV=production
+   
+4. Start the development server
+
+   pnpm dev
+
+## 🛠️ Tech Stack
+
+- Frontend: React 18.3, TypeScript 5.6, Vite, Tailwind CSS, shadcn/ui, Lucide Icons.
+- Backend: Supabase (PostgreSQL, RLS, Edge Functions, Auth).
+- AI: Gemini API (Simulated diagnosis).
+- Internationalization: react-i18next.
+
+## 📁 Project Structure
+
+agropulse/
+├── src/
+│   ├── components/       # UI (common, dashboard, financial, layout)
+│   ├── pages/            # Page-level components
+│   ├── db/               # Supabase & API utilities
+│   ├── i18n/             # Translations
+│   ├── hooks/            # Custom React hooks
+│   └── types/            # TypeScript definitions
+├── supabase/             # Migrations & Edge Functions
+└── public/               # Static assets
+
+## 🤝 Contributing
+
+We welcome contributions!
+
+- Fork the project.
+- Create your feature branch (git checkout -b feature/amazing-feature).
+- Commit your changes (git commit -m 'Add some amazing feature').
+- Push to the branch (git push origin feature/amazing-feature).
+- Open a Pull Request.
+
+## 📊 Project Stats
+
+Made with ❤️ for farmers worldwide
+⭐ Star us on GitHub — it motivates us a lot!
+
+   © AgroPulse Tech 2026. All rights reserved.
+   
+
