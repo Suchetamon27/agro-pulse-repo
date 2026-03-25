@@ -12,9 +12,10 @@ AgroPulse is a comprehensive agricultural monitoring and management platform des
 ## 🎯 Mission
 To bridge the technology gap in agriculture by providing farmers with accessible, intelligent tools that increase productivity, reduce risks, and foster community collaboration.
 
-## ✨ Features🌡️
+## ✨ Features
 
-- Real-Time Micro-Climate MonitoringLive Weather Data: Current temperature, humidity, and soil moisture readings
+🌡️Real-Time Micro-Climate Monitoring
+- Live Weather Data: Current temperature, humidity, and soil moisture readings
 - AI Guardian Alerts: Intelligent notifications for frost, pest, drought, and heatwave risks
 - Risk Assessment: Severity-based alerts (Low, Medium, High, Critical) with actionable recommendations
 
