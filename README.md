@@ -88,16 +88,7 @@ Quick Start
 
 ## 📁 Project Structure
 
-agropulse/
-├── src/
-│   ├── components/  
-│   ├── pages/       
-│   ├── db/              
-│   ├── i18n/            
-│   ├── hooks/           
-│   └── types/            
-├── supabase/            
-└── public/          
+<img width="195" height="260" alt="image" src="https://github.com/user-attachments/assets/57795bb8-1353-403a-9464-961ea72d29ba" />        
 
 ## 🤝 Contributing
 
